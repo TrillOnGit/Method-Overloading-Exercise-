@@ -1,0 +1,15 @@
+/home/trillion/Repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading
+/home/trillion/Repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading.deps.json
+/home/trillion/Repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading.runtimeconfig.json
+/home/trillion/Repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading.dll
+/home/trillion/Repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading.pdb
+/home/trillion/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.csproj.AssemblyReference.cache
+/home/trillion/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/trillion/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.AssemblyInfoInputs.cache
+/home/trillion/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.AssemblyInfo.cs
+/home/trillion/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.csproj.CoreCompileInputs.cache
+/home/trillion/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.dll
+/home/trillion/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/refint/MethodOverloading.dll
+/home/trillion/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.pdb
+/home/trillion/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.genruntimeconfig.cache
+/home/trillion/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/ref/MethodOverloading.dll
